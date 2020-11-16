@@ -1,7 +1,7 @@
 Update Related Task Button
 ==============================
 
-Simple plugins which adds button to incrementally change time spent on task. (currently dialog language: German)
+Simple plugins which adds button to incrementally change time spent on task. (current dialog language: German)
 
 
 Author
